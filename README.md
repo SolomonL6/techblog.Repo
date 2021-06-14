@@ -18,3 +18,5 @@ columns:
 id
 foreign key (user id)
 foreign key #2 (blog id)
+
+Deployed link:https://solomonl6.github.io/techblog.Repo/
