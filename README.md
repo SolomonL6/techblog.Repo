@@ -1,5 +1,8 @@
 # techblog.Repo
 
+For this Application, I was tasked with building a CMS-style blog site. when fully functional, developers can publish their blog posts and comment on other developers’ posts.  
+
+Notes for next steps:
 user model in models folder
 colums:id
 password
